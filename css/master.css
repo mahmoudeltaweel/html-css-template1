@@ -10,11 +10,11 @@ body{
 }
 
 .parent{
-    background-color: beige;
+    /* background-color: beige; */
 }
 
 .container{
-    background-color: bisque;
+    /* background-color: bisque; */
     margin-left:auto ;
     margin-right:auto ;
     padding-left:15px ;
@@ -39,3 +39,4 @@ body{
         width: 1170px;
     }
 }
+
