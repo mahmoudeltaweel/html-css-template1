@@ -222,6 +222,10 @@ h1{
 /* start services */
 
 .services{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.services .services-content{
     
 }
 
